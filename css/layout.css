@@ -1,6 +1,40 @@
+/*
+=====================================================================
+*   Ceevee v1.0 Layout Stylesheet
+*   url: styleshout.com
+*   03-18-2014
+=====================================================================
+
+   TOC:
+   a. General Styles
+   b. Header Styles
+   c. About Section
+   d. Resume Section
+   e. Portfolio Section
+   f. Call To Action Section
+   g. Testimonials Section
+   h. Contact Section
+   i. Footer
+
+===================================================================== */
+
+
+/* ------------------------------------------------------------------ */
+
+
+/* a. General Styles
+/* ------------------------------------------------------------------ */
+
 body {
     background: #0f0f0f;
 }
+
+
+/* ------------------------------------------------------------------ */
+
+
+/* b. Header Styles
+/* ------------------------------------------------------------------ */
 
 header {
     position: relative;
@@ -369,6 +403,186 @@ ul#nav li.current a {
     font-weight: normal;
     position: relative;
     top: -36px;
+}
+
+@-moz-keyframes python {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@-moz-keyframes html5 {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 75%;
+    }
+}
+
+@-moz-keyframes jquery {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+@-moz-keyframes css {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-moz-keyframes mongo {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@-moz-keyframes javascript {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-moz-keyframes restful {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+@-moz-keyframes git {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-moz-keyframes nodejs {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 56%;
+    }
+}
+
+@-moz-keyframes expressjs {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes python {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@-webkit-keyframes html5 {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 75%;
+    }
+}
+
+@-webkit-keyframes jquery {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+@-webkit-keyframes css {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes mongo {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@-webkit-keyframes javascript {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes restful {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 40%;
+    }
+}
+
+@-webkit-keyframes git {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
+}
+
+@-webkit-keyframes nodejs {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 60%;
+    }
+}
+
+@-webkit-keyframes expressjs {
+    0% {
+        width: 0px;
+    }
+    100% {
+        width: 50%;
+    }
 }
 
 
